@@ -45,10 +45,6 @@ Full Stack Developer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/hatembenmahjouba"><img src="https://github-readme-stats.vercel.app/api?username=hatembenmahjouba&show_icons=true" alt="hatembenmahjouba's GitHub stats" /></a>
-
 <a href="http://www.github.com/hatembenmahjouba"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hatembenmahjouba&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/hatembenmahjouba" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hatembenmahjouba&layout=compact" alt="Top Languages" /></a>
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/Benmahjoubahatem?theme=auto&font=baloo&extension=null)
